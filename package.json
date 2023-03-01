@@ -22,7 +22,9 @@
   },
   "homepage": "https://github.com/AktanSN/PCAT#readme",
   "dependencies": {
-    "express": "^4.18.2"
+    "ejs": "^3.1.8",
+    "express": "^4.18.2",
+    "mongoose": "^6.9.2"
   },
   "devDependencies": {
     "nodemon": "^2.0.20"
